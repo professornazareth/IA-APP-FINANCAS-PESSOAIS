@@ -1,4 +1,4 @@
-# IA-financas-pessoais
+# IA-APP-Financas-Pessoais
 APP de Organização de Finanças Pessoais com Vibe Coding
 # PRD - App de Organização de Finanças Pessoais
 
