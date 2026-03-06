@@ -132,10 +132,6 @@ ENDEREÇO WEB NO LOVABLE:
 
 https://quiet-controller.lovable.app
 
-ENDEREÇO PROJETO:
-
-https://lovable.dev/products/quiet-controller
-
 <img width="1440" height="858" alt="Captura de tela 2026-02-27 095521" src="https://github.com/user-attachments/assets/26223a29-9825-4e22-b2db-d62d02252b5a" />
 <img width="1435" height="826" alt="Captura de tela 2026-02-28 193415" src="https://github.com/user-attachments/assets/eb4ab0b9-8e62-4989-a4e6-ec9993090a6e" />
 <img width="1431" height="816" alt="Captura de tela 2026-02-27 094158" src="https://github.com/user-attachments/assets/4de52dbf-4a18-4304-ba02-ce1815e3c419" />
