@@ -128,12 +128,20 @@ Confirmar se as principais funcionalidades do MVP atendem às necessidades bási
 
 NOME FANTASIA: FINANÇA FÁCIL APP IA ORGANIZADOR DE FINANÇAS PESSOAIS COM COMANDO VOZ E TEXTO
 
-ENDEREÇO WEB NO LOVABLE:
+ENDEREÇO WEB NO LOVABLE: 
 
 https://quiet-controller.lovable.app
 
-<img width="1440" height="858" alt="Captura de tela 2026-02-27 095521" src="https://github.com/user-attachments/assets/26223a29-9825-4e22-b2db-d62d02252b5a" />
-<img width="1435" height="826" alt="Captura de tela 2026-02-28 193415" src="https://github.com/user-attachments/assets/eb4ab0b9-8e62-4989-a4e6-ec9993090a6e" />
-<img width="1431" height="816" alt="Captura de tela 2026-02-27 094158" src="https://github.com/user-attachments/assets/4de52dbf-4a18-4304-ba02-ce1815e3c419" />
-<img width="1440" height="863" alt="Captura de tela 2026-02-27 100850" src="https://github.com/user-attachments/assets/d503c914-1132-45f3-91b1-4a5080cf2ab3" />
+<img width="1436" height="860" alt="Captura de tela 2026-03-10 192816 FINANÇA FÁCIL" src="https://github.com/user-attachments/assets/fa5918ba-c057-4566-9f08-e7f1778242c6" />
+<img width="1437" height="857" alt="Captura de tela 2026-03-10 193048 FINANÇA FÁCIL" src="https://github.com/user-attachments/assets/3f8ae840-e535-4ed6-ba5e-814b682f83ff" />
+<img width="1436" height="860" alt="Captura de tela 2026-03-10 193107 FINANÇA FÁCIL" src="https://github.com/user-attachments/assets/56d02262-ba6e-4cac-aac8-4c6ffbf32a94" />
+<img width="1439" height="853" alt="Captura de tela 2026-03-10 193140 FINANÇA FÁCIL" src="https://github.com/user-attachments/assets/f7ba74f7-1ffc-402c-bb48-c7d9da2e1a86" />
+<img width="1426" height="855" alt="Captura de tela 2026-03-10 193215 FINANÇA FÁCIL" src="https://github.com/user-attachments/assets/05485869-d243-4bb9-87bf-64da458dccfc" />
+<img width="1434" height="858" alt="Captura de tela 2026-03-10 193239 FINANÇA FÁCIL" src="https://github.com/user-attachments/assets/1adaf530-eba9-4c59-af88-f04c3c9017d1" />
+<img width="1440" height="856" alt="Captura de tela 2026-03-10 193303 FINANÇA FÁCIL" src="https://github.com/user-attachments/assets/1283d09d-f323-4c04-a48d-97e87157ca2a" />
+
+
+
+
+
 
